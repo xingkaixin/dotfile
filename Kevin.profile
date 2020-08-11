@@ -10,3 +10,4 @@ export PATH=$LD_LIBRARY_PATH:$PATH
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home
 alias ll='colorls -lA --sd'
 alias startds='sh ~/ds/spoon.sh'
+alias backupdotfile='sh ~/Dropbox/01_个人资料/00_dotfiles/backup.sh'
