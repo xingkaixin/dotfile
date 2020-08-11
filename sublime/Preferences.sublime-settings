@@ -1,0 +1,47 @@
+{
+	"caret_style": "solid",
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_no_icon": false,
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 13.0,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"CSSFormat",
+		"JavaScript",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 0,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"pep8_ignore":
+	[
+		"E501"
+	],
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"sidebar_no_icon": false,
+	"status_bar_brighter": true,
+	"tab_size": 4,
+	"tabs_label_not_italic": true,
+	"tabs_padding_small": true,
+	"tabs_small": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
+}
