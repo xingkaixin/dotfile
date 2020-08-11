@@ -90,15 +90,9 @@ export LSCOLORS=Fxbxaxdxcxegedabagacad
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export http_proxy="http://127.0.0.1:8123/"
-export https_proxy="http://127.0.0.1:8123/"
-export ftp_proxy="http://127.0.0.1:8123/"
+
 export no_proxy="localhost,127.0.0.1,localaddress,.localdomain.com,.souche.com"
-export HTTP_PROXY="http://127.0.0.1:8123/"
-export HTTPS_PROXY="http://127.0.0.1:8123/"
-export FTP_PROXY="http://127.0.0.1:8123/"
 export NO_PROXY="localhost,127.0.0.1,localaddress,.localdomain.com,.souche.com"
 source ~/.oh-my-zsh/plugins/incr/incr*.zsh
 source ~/.profile
-alias ll='colorls -lA --sd'
-alias startds='sh ~/ds/spoon.sh'
+
